@@ -140,3 +140,4 @@ C:\Users\Felipe Paiva\Desktop\C#\cadastro\cadastro\obj\Debug\net8.0\refint\cadas
 C:\Users\Felipe Paiva\Desktop\C#\cadastro\cadastro\obj\Debug\net8.0\cadastro.pdb
 C:\Users\Felipe Paiva\Desktop\C#\cadastro\cadastro\obj\Debug\net8.0\cadastro.genruntimeconfig.cache
 C:\Users\Felipe Paiva\Desktop\C#\cadastro\cadastro\obj\Debug\net8.0\ref\cadastro.dll
+C:\Users\Felipe Paiva\Desktop\C#\cadastro\cadastro\obj\Debug\net8.0\cadastro.sourcelink.json
