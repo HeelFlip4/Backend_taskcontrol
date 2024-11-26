@@ -1,5 +1,3 @@
-Aqui está um modelo de README para o seu projeto. Sinta-se à vontade para personalizá-lo conforme necessário:
-
 ---
 
 # ASP.NET Web API - CRUD de Usuários
