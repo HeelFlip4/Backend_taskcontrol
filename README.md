@@ -105,8 +105,8 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
-- **E-mail:** seu.email@exemplo.com
-- **GitHub:** [seu-usuario](https://github.com/seu-usuario)
+- **E-mail:** felipebrpp@gmail.com
+- **GitHub:** ([https://github.com/seu-usuario](https://github.com/HeelFlip4))
 
 --- 
 
