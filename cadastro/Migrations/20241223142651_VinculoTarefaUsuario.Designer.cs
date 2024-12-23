@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using cadastro.Data.Map;
 
@@ -11,9 +12,11 @@ using cadastro.Data.Map;
 namespace cadastro.Migrations
 {
     [DbContext(typeof(CadastroDBcontex))]
-    partial class CadastroDBcontexModelSnapshot : ModelSnapshot
+    [Migration("20241223142651_VinculoTarefaUsuario")]
+    partial class VinculoTarefaUsuario
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
